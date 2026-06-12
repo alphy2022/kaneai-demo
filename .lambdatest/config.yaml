@@ -1,0 +1,3 @@
+version: "1.0"
+# Replace this with your actual live URL once hosted (e.g., GitHub Pages or Vercel)
+testURL: "https://yourusername.github.io/kaneai-demo/"
