@@ -1,3 +1,11 @@
-version: "1.0"
-# Replace this with your actual live URL once hosted (e.g., GitHub Pages or Vercel)
-testURL: "https://alphy2022.github.io/kaneai-demo/"
+# LambdaTest Configuration
+
+# Project and folder configuration
+project_id: "01KTZWQCMPWY7P5QV445SWRT5E"
+folder_id: "01KTZWQD60HFFKXZ6MZ3VRSQQ8"
+
+# Test Run configuration
+assignee: 3337417
+
+# Test URL for automation
+# test_url: "https://github.com/alphy2022/kaneai-demo"
